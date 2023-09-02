@@ -1,5 +1,5 @@
 # Grocery list 
-This project is a grocery list app built with React.js. The user can add an item, check it when they get it, and delete it (CRUD). The list is saved in the local storage, so even if the page is reloaded, the items are displayed on the list. There is also the possibility of searching for a specific item in the list through the search item input. On the footer, there is a counter displaying the updated number of items in the list. 
+This React.js-based grocery list application empowers users to manage their shopping needs effortlessly. It facilitates item addition, tracking of acquired items, and item deletion, effectively implementing CRUD operations. Notably, the application ensures data persistence by storing the list in local storage, even when the page is refreshed, guaranteeing the uninterrupted display of items. Additionally, users can swiftly locate specific items using the search feature, while the footer conveniently showcases a real-time item count, enhancing the overall usability of the application.
 
 <hr>
 
